@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru19theogoog_0421.png"; bbox 0 0 3017 4817; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 227 1526 1291 1654">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 227 1526 1291 1654">
+     <span class='ocr_line' id='line_1_1' title="bbox 227 1526 1291 1654; baseline -0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 227 1538 563 1653; x_wconf 86' lang='lat' dir='ltr'>SANGTI</span> <span class='ocrx_word' id='word_1_2' title='bbox 629 1539 1127 1654; x_wconf 86' lang='lat' dir='ltr'>NIGEPHORI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1286 1526 1291 1531; x_wconf 56' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 159 1830 1196 1936">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 159 1830 1196 1936">
+     <span class='ocr_line' id='line_1_2' title="bbox 159 1830 1196 1936; baseline 0.003 -24"><span class='ocrx_word' id='word_1_4' title='bbox 159 1832 520 1915; x_wconf 67' lang='lat' dir='ltr'><strong>mmmm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 544 1928 548 1936; x_wconf 14' lang='lat'>⁸</span> <span class='ocrx_word' id='word_1_6' title='bbox 574 1830 1196 1915; x_wconf 74' lang='lat' dir='ltr'><strong>CONSTANTmOPOLITANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 355 2086 1076 2177">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 355 2086 1076 2177">
+     <span class='ocr_line' id='line_1_3' title="bbox 355 2086 1076 2177; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 355 2086 1076 2177; x_wconf 82' lang='lat' dir='ltr'><strong>BREVIARIUM·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 276 2364 1070 2439">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 276 2364 1070 2439">
+     <span class='ocr_line' id='line_1_4' title="bbox 276 2364 1070 2439; baseline -0.005 0"><span class='ocrx_word' id='word_1_8' title='bbox 276 2365 427 2439; x_wconf 85' lang='lat' dir='ltr'>RERUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 444 2368 555 2439; x_wconf 86' lang='lat' dir='ltr'>POST</span> <span class='ocrx_word' id='word_1_10' title='bbox 575 2364 817 2437; x_wconf 76' lang='lat' dir='ltr'><strong>MAUBJCIUM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 833 2364 1070 2436; x_wconf 68' lang='lat' dir='ltr'>GESTARIJM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1514 4817">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1514 4817">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1514 4817; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1514 4817; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
